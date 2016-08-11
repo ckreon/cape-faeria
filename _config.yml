@@ -5,10 +5,10 @@ description: 'Welcome to everything Faeria!'
 # Site Variables
 url: ''
 baseurl: '' # the subpath of your site, e.g. /blog
-company: ''
-email: ''
-github_user: ''
-github_url: ''
+company: 'Cape Faeria'
+email: 'ckreon@gmail.com'
+github_user: 'ckreon'
+github_url: 'https://github.com/ckreon'
 
 # The 'home' link in the navbar is configured here -
 # Set these values to change your Homepage:
