@@ -24,8 +24,9 @@
 
     {% include footer.html %}
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.26/vue.js">
-    </script>
+    {% js vue.js %}
+
+    {% js app.js %}
 
     <div id="disqus_thread"></div>
 
@@ -33,7 +34,7 @@
       var disqus_url = 'http://capefaeria.com';
       var disqus_config = function () {
         this.page.url = 'capefaeria.com';  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = capefaeria-home; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.identifier = {{ site.url }}{{; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
       };
 
       (function() { // DON'T EDIT BELOW THIS LINE
