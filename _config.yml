@@ -3,7 +3,7 @@ title: 'Cape Faeria'
 description: 'Welcome to everything Faeria!'
 
 # Site Variables
-url: ''
+url: 'http://capefaeria.com'
 baseurl: '' # the subpath of your site, e.g. /blog
 company: 'Cape Faeria'
 email: 'ckreon@gmail.com'
