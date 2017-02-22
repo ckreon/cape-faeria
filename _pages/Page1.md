@@ -10,3 +10,6 @@ This is page 1!
 **One!**
 
 That's just great.
+
+<div id="disqus_thread" class="container"></div>
+{% js disqus.js %}

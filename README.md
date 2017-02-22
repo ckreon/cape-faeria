@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ckreon/shadowlink-site.svg?branch=master)](https://travis-ci.org/ckreon/cape-faeria)
+[![Build Status](https://travis-ci.org/ckreon/ww-cape-faeria.svg?branch=master)](https://travis-ci.org/ckreon/ww-cape-faeria)
 
 **[Cape Faeria](http://capefaeria.com)**
 
